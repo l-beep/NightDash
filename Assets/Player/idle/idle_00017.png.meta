@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 385637d673a4b5646b5da5da0f3ba3f3
+guid: c19819b145a533242946e82f47617959
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      idle_00017_0: 5143370451114579385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
